@@ -39,13 +39,13 @@ pip install -r requirements.txt
 ## 🛠 Usage
 
 ```bash
-python url_analyzer.py https://bit.ly/example
+python main.py https://bit.ly/example
 ```
 
 Or run and input manually:
 
 ```bash
-python url_analyzer.py
+python main.py
 ```
 
 ---
